@@ -10,7 +10,7 @@
 - [김중원](https://github.com/jw0293) (개발자)
 - [이태검](https://github.com/LeeTaeGeom) (개발자, 팀장)
 - [이형석](https://github.com/lhs961021) (개발자)
-- [정재우](개발자)
+- [정재우](https://github.com/Jung-jaewoo) (개발자)
 
 ### 1.1. 참여 과제
 
